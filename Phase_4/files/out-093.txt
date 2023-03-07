@@ -1,0 +1,9 @@
+the 2
+workspace 1
+stand 1
+at 1
+eurobot 1
+exhibition 1
+in 1
+frankfurt 1
+germany 1

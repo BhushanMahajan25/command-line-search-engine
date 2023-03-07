@@ -1,0 +1,6 @@
+crude 1
+oil 1
+and 1
+natural 1
+gas 1
+operations 1
